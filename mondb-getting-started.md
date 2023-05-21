@@ -1,0 +1,1 @@
+- [Dive into the official Getting Started Docs](https://docs.mongodb.com/manual/tutorial/getting-started/)

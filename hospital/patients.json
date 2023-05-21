@@ -1,0 +1,35 @@
+[
+    {
+        "firstName": "Jhon",
+        "lastName": "Cean",
+        "age": 31,
+        "history": [
+            {
+                "disease": "Fever",
+                "treatment": "opt"
+            }
+        ]
+    },
+    {
+        "firstName": "Micheal",
+        "lastName": "Jackson",
+        "age": 29,
+        "history": [
+            {
+                "disease": "Head ache",
+                "treatment": "opt"
+            }
+        ]
+    },
+    {
+        "firstName": "Michelle",
+        "lastName": "Clara",
+        "age": 32,
+        "history": [
+            {
+                "disease": "cold",
+                "treatment": "opt"
+            }
+        ]
+    }
+]
